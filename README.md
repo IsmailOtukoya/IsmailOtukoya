@@ -1,7 +1,7 @@
-### Hi there, I'm Ismail Otukoya 👋
+## Hi there, I'm Ismail Otukoya 👋
 
 
-### About me
+### 🚀About me
 
 👋 Hi, I’m Ismail Otukoya 
 
