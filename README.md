@@ -5,7 +5,7 @@
 
 👋 Hi, I’m Ismail Otukoya 
 
-👀 I’m interested in Data Science / Machine Learning and Artificial Intelligence
+👀 I’m interested in Data Science , Data Analysis, Machine Learning and Artificial Intelligence
 
 🌱 I’m currently learning Complex algorithms, Model creation and Problem solving.
 
@@ -15,7 +15,7 @@
 
 😄 Pronouns - He/Him
 
-⚡️ Fun fact I love working out and listening to Tech Podcast.
+⚡️ Fun fact I love working out and listening to Tech blogs.
 
 <!--
 **IsmailOtukoya/IsmailOtukoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
