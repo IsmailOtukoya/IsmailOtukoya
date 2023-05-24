@@ -15,7 +15,7 @@
 
 😄 Pronouns - He/Him
 
-⚡️ Fun fact I love working out and reading and also writing Tech blogs. You can check out my blog here {https://medium.com/@otukoyaismail}
+⚡️ Fun fact I love working out and reading and also writing Tech blogs. You can check out my blog here { https://medium.com/@otukoyaismail }
 
 <!--
 **IsmailOtukoya/IsmailOtukoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
