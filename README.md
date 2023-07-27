@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Complex algorithms, Model creation and Problem solving.
 
-💞️ I’m looking to collaborate on Data science and also Artificial Intelligence related and Technical writing gigs.
+💞️ I’m looking to collaborate on Data science and also Artificial Intelligence related projects and Technical writing gigs.
 
 📫 How to reach me via email { otukoyaismail@gmail.com }
 
